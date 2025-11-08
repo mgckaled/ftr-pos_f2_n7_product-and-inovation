@@ -32,7 +32,11 @@ A estratégia de produto transcende a execução técnica ao fornecer direcionam
 
 ---
 
-### Bloco C - Pesquisa e Entendimento do Cliente
+### Bloco C: Pesquisa e Entendimento do Cliente
+
+O Bloco C concentra-se nos fundamentos da pesquisa e descoberta de produtos digitais, apresentando quatro pilares essenciais: métodos de pesquisa de mercado incluindo entrevistas, surveys e análise de dados para compreensão sistemática de necessidades; desenvolvimento de personas e mapeamento de jornadas do cliente para representação estruturada de usuários-alvo e seus fluxos de interação; Design Thinking e empatia com o usuário como abordagem iterativa centrada no ser humano para resolução de problemas complexos; e validação de hipóteses com construção de MVPs para testar suposições antes de investimentos significativos em desenvolvimento. A abordagem enfatiza a importância de compreender profundamente usuários através de métodos quantitativos, qualitativos e mistos, transformando insights em decisões de produto baseadas em evidências concretas.
+
+A pesquisa centrada no usuário diferencia-se da intuição e suposições ao fornecer validação sistemática de premissas através de dados reais, reduzindo riscos de desenvolvimento de funcionalidades irrelevantes e aumentando taxa de adoção de produtos. Para desenvolvedores, dominar esses métodos permite questionar requisitos com base em evidências de usuário, priorizar funcionalidades que resolvem dores reais, contribuir para decisões de UX/DX com perspectiva técnica e construir produtos que equilibram viabilidade técnica com desejabilidade do mercado. O conteúdo apresenta frameworks práticos como pesquisa quantitativa/qualitativa/mista, templates de personas e jornadas, as cinco etapas do Design Thinking (Empatia, Definição, Ideação, Prototipação, Teste), métodos de validação de hipóteses e princípios de MVP, além de casos reais (TotalPass) que demonstram como pesquisa com usuários transforma descobertas em produtos de impacto, capacitando desenvolvedores a evoluir de implementadores de requisitos para descobridores de soluções validadas.
 
 > [!NOTE]
 > [Slides](./.github/docs/content/presentations/bloco-c.pdf)
