@@ -6,6 +6,8 @@ Este repositório consolida materiais de estudo, referências técnicas e docume
 
 ## Conteúdo
 
+- [Questionário Avaliativo](./.github/docs/content/assessements/q.md)
+
 ### Bloco A: Fundamentos de Gestão de Produtos
 
 O Bloco A estabelece os alicerces conceituais da gestão de produtos digitais, apresentando cinco pilares fundamentais: o papel do Product Manager e sua distinção de outros papéis técnicos; as diferenças críticas entre gestão de produtos e projetos; o ciclo de vida completo de produtos digitais desde concepção até descontinuação; a centralidade do cliente no desenvolvimento de software; e o ecossistema de produtos e stakeholders. A abordagem enfatiza a importância da colaboração cross-funcional entre Product Managers, desenvolvedores, designers e stakeholders de negócio para a construção de soluções que transcendem a implementação técnica.
@@ -95,4 +97,26 @@ Pricing e monetização diferenciam-se da implementação técnica pura ao conec
 
 ---
 
-### Bloco H
+### Bloco H: Lançamento e Growth Hacking
+
+O Bloco H concentra-se na dimensão de tração e crescimento exponencial em produtos digitais, apresentando quatro pilares fundamentais: estratégias de lançamento de produtos incluindo pesquisa de mercado, validação, planos go-to-market, buzz marketing e monitoramento pós-lançamento para introduzir produtos ao mercado com momentum máximo; growth hacking e aquisição de usuários através de técnicas criativas e de baixo custo como viral loops, SEO, product-led growth e referral programs para crescimento rápido; retenção e engajamento de clientes com foco em onboarding eficaz, programas de fidelidade, email automation e push notifications para garantir que usuários adquiridos permanecem ativos; e expansão para novos mercados e escalabilidade através de internacionalização, adaptação de produtos e infraestrutura horizontal scaling para crescimento sustentável. A abordagem enfatiza a importância de mentalidade experimental, foco em growth loops (vs. funnels lineares), e instrumentação adequada para medir experimentos A/B, transformando desenvolvedores em growth engineers que conectam código a aquisição e retenção de usuários.
+
+Lançamento e growth hacking diferenciam-se da implementação técnica tradicional ao requerer coordenação entre equipes, experimentação rápida baseada em dados e capacidade de iterar baseado em métricas de crescimento. Para desenvolvedores, dominar esses conceitos permite implementar feature flags para rollouts graduais, construir sistemas de referral com incentivos bilateral, otimizar onboarding para time-to-value <5 minutos, integrar analytics para tracking de growth metrics (viral coefficient, activation rate, cohort retention), desenvolver infraestrutura escalável com auto-scaling e database sharding, e criar viral loops nativos do produto. O conteúdo apresenta frameworks práticos como AARRR (Pirate Metrics) para funil de growth, cálculo de K-factor (viral coefficient) para validar crescimento orgânico, Product Hunt launch checklist, implementação técnica de referral programs com recompensas, email automation com segmentação comportamental, i18n para expansão internacional, e casos reais (Dropbox referral program, Airbnb growth loops, Slack product-led growth) que demonstram como estratégias de lançamento e growth hacking convergem para criar produtos com tração exponencial, capacitando desenvolvedores a evoluir de implementadores de features para growth engineers que constroem mecanismos de crescimento sustentável diretamente no código.
+
+> [!NOTE]
+> [Slides](./.github/docs/content/presentations/bloco-h.pdf)
+>
+> [Lançamento e Growth Hacking: Perspectiva para Desenvolvedores](./.github/docs/content/bloco-h.md)
+
+---
+
+### Bloco I: Liderança e Gestão de Equipes de Produtos
+
+O Bloco I concentra-se na dimensão humana e organizacional da gestão de produtos digitais, apresentando quatro pilares fundamentais: habilidades de liderança para Product Managers incluindo visão estratégica, comunicação eficaz, empatia, tomada de decisão e gestão de stakeholders para guiar equipes sem autoridade hierárquica formal; gestão de equipes multidisciplinares com foco em colaboração, respeito à diversidade de habilidades, gestão de conflitos e reconhecimento para maximizar eficiência de squads cross-funcionais; comunicação eficaz com stakeholders através de mapeamento de influência/interesse, adaptação de mensagens, transparência e gestão de expectativas para alinhar múltiplas partes interessadas; e resolução de conflitos e tomada de decisão colaborativa utilizando técnicas de escuta ativa, identificação de interesses comuns e frameworks estruturados para converter divergências em soluções criativas. A abordagem enfatiza a importância de soft skills para desenvolvedores que aspiram crescer além de contribuição técnica, transformando-os em líderes técnicos, tech leads e engineering managers que equilibram excelência técnica com capacidade de influenciar equipes e stakeholders.
+
+Liderança em gestão de produtos diferencia-se da gestão hierárquica tradicional ao requerer influência sem autoridade formal, construção de consenso através de evidências e argumentação técnica, e capacidade de navegar complexidade organizacional. Para desenvolvedores, dominar esses conceitos permite evoluir de contribuidor individual para tech lead que coordena trabalho técnico de squad, comunicar decisões arquiteturais para stakeholders não-técnicos usando ADRs (Architecture Decision Records), facilitar discussões de RFC (Request for Comments) para tomada de decisão colaborativa, resolver conflitos de priorização técnica versus negócio através de análise de trade-offs, e mentorear desenvolvedores juniores acelerando seu crescimento profissional. O conteúdo apresenta frameworks práticos como matriz de stakeholders (poder vs. interesse), planos de comunicação estruturados, técnicas de facilitação para brainstorming e retrospectivas, método dos cinco porquês para root cause analysis, RACI matrix para clarificação de papéis, modelos de tomada de decisão (consenso vs. consultivo vs. comando), e casos reais que demonstram como liderança técnica e habilidades interpessoais convergem para criar equipes de alto desempenho que entregam produtos de impacto, capacitando desenvolvedores a evoluir de executores técnicos para líderes que influenciam outcomes de negócio através de visão estratégica e excelência na gestão de pessoas.
+
+> [!NOTE]
+> [Slides](./.github/docs/content/presentations/bloco-i.pdf)
+>
+> [Liderança e Gestão de Equipes de Produtos: Perspectiva para Desenvolvedores](./.github/docs/content/bloco-i.md)

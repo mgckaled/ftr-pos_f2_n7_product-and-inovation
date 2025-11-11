@@ -15,3 +15,6 @@ Exploramos a gestão do portfólio de inovações, que envolve selecionar e prio
 ## Aula 4 - Cultura de Experimentação e Aprendizado Contínuo
 
 Exploramos como criar uma cultura de experimentação e aprendizado contínuo nas equipes. Discutimos a importância de incentivar a curiosidade, a tolerância ao erro e a autonomia, promovendo um ambiente seguro para falhas. Abordamos estratégias práticas, como feedbacks, mentorias e o uso de ferramentas como Design Thinking. Também falamos sobre a necessidade de medir resultados e compartilhar aprendizados. O objetivo é transformar a mentalidade da equipe, tornando-a mais inovadora e adaptável às mudanças do mercado.
+
+## Resumo Slides
+
